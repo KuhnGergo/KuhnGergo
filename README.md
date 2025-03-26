@@ -1,7 +1,7 @@
-## Hi there / Üdvözöllek errefelé! 👋
-- 🌱 I’m currently learning c# and html.
+## Welcome here / Üdvözöllek errefelé! 👋
+- 🌱 I’m currently learning c#, wpf, NodeJS and pure web.
 - 🏫 I'm in secondary school.
-- 📌 I like to paint, draw, making arts and think freely.
+- 📌 I like to paint, draw, making art and think freely.
 <!--
 **KuhnGergo/KuhnGergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
